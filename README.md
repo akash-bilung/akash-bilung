@@ -6,7 +6,7 @@ I work at [P360](https://www.p360.com/) as a Senior Software Engineer. For more 
 
 [![Twitter](https://github.com/akash-bilung/akash-bilung/blob/main/twitter-handle-sm.png)](https://twitter.com/mr_bilung)
 
-## Skills
+### My Skills include
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/akash-bilung/akash-bilung/blob/main/tech-stack-sm/html5.png"><img src="https://github.com/akash-bilung/akash-bilung/blob/main/tech-stack-sm/html5.png" height="30"/></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/akash-bilung/akash-bilung/blob/main/tech-stack-sm/css3.png"><img src="https://github.com/akash-bilung/akash-bilung/blob/main/tech-stack-sm/css3.png" height="30"/></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/akash-bilung/akash-bilung/blob/main/tech-stack-sm/sass.png"><img src="https://github.com/akash-bilung/akash-bilung/blob/main/tech-stack-sm/sass.png" height="30"/></a>
@@ -25,7 +25,7 @@ I work at [P360](https://www.p360.com/) as a Senior Software Engineer. For more 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/akash-bilung/akash-bilung/blob/main/tech-stack-sm/adobe%20xd.png"><img src="https://github.com/akash-bilung/akash-bilung/blob/main/tech-stack-sm/adobe%20xd.png" height="30"/></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/akash-bilung/akash-bilung/blob/main/tech-stack-sm/figma.png"><img src="https://github.com/akash-bilung/akash-bilung/blob/main/tech-stack-sm/figma.png" height="30"/></a>  
 
-## Let's Connect
+### Drop me a line at
 [<img src='https://github.com/akash-bilung/akash-bilung/blob/main/social/small/linkedin.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/akash-bilung/)  [<img src='https://github.com/akash-bilung/akash-bilung/blob/main/social/small/twitter.png' alt='twitter' height='30'>](https://twitter.com/mr_bilung)  [<img src='https://github.com/akash-bilung/akash-bilung/blob/main/social/small/codepen.png' alt='codepen' height='30'>](https://codepen.io/akash_bilung)  [<img src='https://github.com/akash-bilung/akash-bilung/blob/main/social/small/youtube.png' alt='YouTube' height='30'>](https://www.youtube.com/channel/UCKcOH3L5z1zJQIXPQ8kmBqg)  [<img src='https://github.com/akash-bilung/akash-bilung/blob/main/social/small/website.png' alt='website' height='30'>](https://akashbilung.com/)  [<img src='https://github.com/akash-bilung/akash-bilung/blob/main/social/small/blog.png' alt='wordpress' height='30'>](https://kodepundit.com/) [<img src='https://github.com/akash-bilung/akash-bilung/blob/main/social/small/instagram.png' alt='wordpress' height='30'>](https://www.instagram.com/akash_bilung/)
 
 
