@@ -1,6 +1,6 @@
 ![](https://github.com/akash-bilung/akash-bilung/blob/main/akash-bilung-header-banner.png)
 
-Hi there 👋 , I'm Akash, a passionate Frontend Developer. Currently, I work at [P360](https://www.p360.com/) as a Technical Lead. For more information about me check out [kodepundit.com](https://kodepundit.com/).
+Hi there 👋 , I'm Akash, a passionate Frontend Developer. Currently, I work at [P360](https://www.p360.com/) as a Technical Lead. For more information about me check out my blog at [kodepundit.com](https://kodepundit.com/).
 
 [![Twitter](https://github.com/akash-bilung/akash-bilung/blob/main/twitter-handle-sm.png)](https://twitter.com/mr_bilung)
 
