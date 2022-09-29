@@ -1,8 +1,6 @@
 ![](https://github.com/akash-bilung/akash-bilung/blob/main/akash-bilung-header-banner.png)
 
-Hi there 👋 , I'm Akash, Currently building these [37 amazing frontend projects](https://twitter.com/mr_bilung/status/1484106921544400896) to enhance the coding skills from basic. Most of them are built/being built on [Learn with Akash](https://www.youtube.com/channel/UCKcOH3L5z1zJQIXPQ8kmBqg), so stay tuned.
-
-I work at [P360](https://www.p360.com/) as a Senior Software Engineer. For more information about me check out [akashbilung.com](https://akashbilung.com/).
+Hi there 👋 , I'm Akash, a passionate Frontend Developer. Currently, I work at [P360](https://www.p360.com/) as a Technical Lead. For more information about me check out [kodepundit.com](https://kodepundit.com/).
 
 [![Twitter](https://github.com/akash-bilung/akash-bilung/blob/main/twitter-handle-sm.png)](https://twitter.com/mr_bilung)
 
